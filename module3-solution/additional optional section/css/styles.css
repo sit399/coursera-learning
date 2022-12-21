@@ -1,0 +1,46 @@
+#header-nav {
+    background-color: gray;
+    border-radius: 0;
+    border: 0;
+}
+#navbartoggler{
+    background-color: rgb(207, 207, 207);
+    margin-top: 8px;
+    margin-left: -12px;
+    margin-right: -12px;
+    margin-bottom: -8px;
+}
+#navlist{
+    margin-top: 15px;
+
+}
+h1{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+#chicken{
+    margin-top: 12px;
+}
+#beef{
+    margin-top: 12px;
+}
+#sushi{
+    margin-top: 12px;
+}
+.colorbox{
+    background-color: grey;
+}
+h2{
+    padding-top: 10px;
+}
+#lasthr{
+    margin-bottom: 0;
+}
+#content{
+    padding: 0 12px 0 12px;
+}
+#topbutton{
+    border: 1px solid black;
+    float: right;
+    background-color: white;
+}
